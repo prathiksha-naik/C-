@@ -1,0 +1,5 @@
+C:\Users\EI13144\GitHub Repos\C-Sharp-Programs\C-Sharp\obj\Debug\net6.0\C-Sharp.csproj.AssemblyReference.cache
+C:\Users\EI13144\GitHub Repos\C-Sharp-Programs\C-Sharp\obj\Debug\net6.0\C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EI13144\GitHub Repos\C-Sharp-Programs\C-Sharp\obj\Debug\net6.0\C-Sharp.AssemblyInfoInputs.cache
+C:\Users\EI13144\GitHub Repos\C-Sharp-Programs\C-Sharp\obj\Debug\net6.0\C-Sharp.AssemblyInfo.cs
+C:\Users\EI13144\GitHub Repos\C-Sharp-Programs\C-Sharp\obj\Debug\net6.0\C-Sharp.csproj.CoreCompileInputs.cache

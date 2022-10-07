@@ -1,8 +1,5 @@
 C:\Users\EI13144\GitHub Repos\C-Sharp-Programs\MyProject1\bin\Debug\net6.0\MyProject1.exe
-C:\Users\EI13144\GitHub Repos\C-Sharp-Programs\MyProject1\bin\Debug\net6.0\MyProject1.deps.json
-C:\Users\EI13144\GitHub Repos\C-Sharp-Programs\MyProject1\bin\Debug\net6.0\MyProject1.runtimeconfig.json
 C:\Users\EI13144\GitHub Repos\C-Sharp-Programs\MyProject1\bin\Debug\net6.0\MyProject1.dll
-C:\Users\EI13144\GitHub Repos\C-Sharp-Programs\MyProject1\bin\Debug\net6.0\MyProject1.pdb
 C:\Users\EI13144\GitHub Repos\C-Sharp-Programs\MyProject1\obj\Debug\net6.0\MyProject1.csproj.AssemblyReference.cache
 C:\Users\EI13144\GitHub Repos\C-Sharp-Programs\MyProject1\obj\Debug\net6.0\MyProject1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\EI13144\GitHub Repos\C-Sharp-Programs\MyProject1\obj\Debug\net6.0\MyProject1.AssemblyInfoInputs.cache
@@ -11,5 +8,8 @@ C:\Users\EI13144\GitHub Repos\C-Sharp-Programs\MyProject1\obj\Debug\net6.0\MyPro
 C:\Users\EI13144\GitHub Repos\C-Sharp-Programs\MyProject1\obj\Debug\net6.0\MyProject1.dll
 C:\Users\EI13144\GitHub Repos\C-Sharp-Programs\MyProject1\obj\Debug\net6.0\refint\MyProject1.dll
 C:\Users\EI13144\GitHub Repos\C-Sharp-Programs\MyProject1\obj\Debug\net6.0\MyProject1.pdb
+C:\Users\EI13144\GitHub Repos\C-Sharp-Programs\MyProject1\bin\Debug\net6.0\MyProject1.deps.json
+C:\Users\EI13144\GitHub Repos\C-Sharp-Programs\MyProject1\bin\Debug\net6.0\MyProject1.runtimeconfig.json
+C:\Users\EI13144\GitHub Repos\C-Sharp-Programs\MyProject1\bin\Debug\net6.0\MyProject1.pdb
 C:\Users\EI13144\GitHub Repos\C-Sharp-Programs\MyProject1\obj\Debug\net6.0\MyProject1.genruntimeconfig.cache
 C:\Users\EI13144\GitHub Repos\C-Sharp-Programs\MyProject1\obj\Debug\net6.0\ref\MyProject1.dll

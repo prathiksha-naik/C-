@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-array",
+      "appliesTo": "array.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-UsingParamsArray",
+      "appliesTo": "UsingParamsArray.cs",
+      "type": "launch"
+    }
+  ]
+}

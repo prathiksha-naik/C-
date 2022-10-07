@@ -1,25 +1,64 @@
-﻿enum holidays
+﻿using System;
+class matrixAdd
 {
-    january,
-    october = january + 2,
-    september = january + 3,
-    april = september + 1,
-    december
-}
-
-
-
-class Program
+public static void Main()
 {
-
-    static void Main(string[] args)
+    int [,] mat1 = new int[3,3];
+    int [,] mat2 = new int[3,3];
+    int [,] addition = new int[3,3];
+    int i, j;
+    Console.WriteLine("Enter the elements of the matrix1: ");
+    for(i=0; i<3; i++)
     {
-        Console.WriteLine("On month of Jan " + (int)holidays.january);
-        Console.WriteLine("On month of Oct " + (int)holidays.october);
-        Console.WriteLine("On month of Sept " + (int)holidays.september);
-        Console.WriteLine("On month of April " + (int)holidays.april);
-        Console.WriteLine("On month of Dec " + (int)holidays.december);
+        for(j=0; j<3; j++)
+        {
+            mat1[i,j] = Convert.ToInt32(Console.ReadLine());
+        }
+    }
+    Console.WriteLine("matrix1: ");
+    for(i=0; i<3; i++)
+    {
+        for(j=0; j<3; j++)
+        {
+            Console.Write("{0} ", mat1[i,j]);
+        }
+        Console.Write("\n");
+    }
 
+    Console.WriteLine("matrix2: ");
+    for(i=0; i<3; i++)
+    {
+        for(j=0; j<3; j++)
+        {
+            mat2[i,j] = Convert.ToInt32(Console.ReadLine());
+        }
+    }
+    Console.WriteLine("elements of the matrix2: ");
+    for(i=0; i<3; i++)
+    {
+        for(j=0; j<3; j++)
+        {
+            Console.Write("{0} ", mat2[i,j]);
+        }
+        Console.Write("\n");
+    }
 
+    for(i=0; i<3; i++)
+    {
+        for(j=0; j<3; j++)
+        {
+            addition[i,j] = mat1[i,j] + mat2[i,j];
+        }
+    }
+
+    Console.WriteLine("Addition of the matrix1 and matrix2: ");
+    for(i=0; i<3; i++)
+    {
+        for(j=0; j<3; j++)
+        {
+            Console.Write("{0} ", addition[i,j]);
+        }
+        Console.Write("\n");
+    }   
     }
 }
