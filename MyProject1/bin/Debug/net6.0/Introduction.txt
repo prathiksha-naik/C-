@@ -1,0 +1,5 @@
+ Name : Prathiksha
+ EmpID : EI13144
+ Qualification : BE in ComputerScience
+ Age : 22
+ Salary : 4.5LPA 
